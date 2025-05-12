@@ -1,0 +1,16 @@
+{
+  "name": "clas-registroauto",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "registro": "tsc registro.ts && node registro.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}

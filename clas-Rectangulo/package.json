@@ -1,0 +1,16 @@
+{
+  "name": "clas-rectangulo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "rectangulo": "tsc rectangulo.ts && node rectangulo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  },
+  "description": ""
+}

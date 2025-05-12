@@ -1,0 +1,17 @@
+{
+  "name": "clas-autos",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "auto": "tsc auto.ts && node auto.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  },
+  "devDependencies": {},
+  "description": ""
+}

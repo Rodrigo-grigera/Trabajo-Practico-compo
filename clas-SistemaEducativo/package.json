@@ -1,0 +1,16 @@
+{
+  "name": "clas-sistemaeducativo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "alumnos":"tsc alumnos.ts && node alumnos.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
